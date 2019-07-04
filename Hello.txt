@@ -5,5 +5,10 @@ Je modifie le fichier depuis le serveur blba blabla conflit 1
 je fais une modif
 
 j'ajoute encore un ligne conflt 2
+Je modifie le fichier depuis le serveur blba blabla et je crée un premier conflit ici
+
+je fais une modif
+
+j'ajoute encore une ligne et je crée un deuxième conflit
 
 vvv plip plop ploup
