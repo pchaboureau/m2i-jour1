@@ -12,3 +12,5 @@ je fais une modif
 j'ajoute encore une ligne et je crée un deuxième conflit
 
 vvv plip plop ploup
+
+je suis content
