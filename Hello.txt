@@ -1,9 +1,9 @@
 Salut
 
-Je modifie le fichier depuis le serveur blba blabla
+Je modifie le fichier depuis le serveur blba blabla et je crée un premier conflit ici
 
 je fais une modif
 
-j'ajoute encore un ligne
+j'ajoute encore une ligne et je crée un deuxième conflit
 
 vvv plip plop ploup
